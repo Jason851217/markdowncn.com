@@ -1,6 +1,5 @@
 {
     "plugins": ["baidu", "ga"],
-    
     "pluginsConfig": {
         "baidu": {
             "token": "8b362535dcf9c2c87073952ab2aa6f26"
