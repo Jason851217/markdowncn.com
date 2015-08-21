@@ -117,7 +117,7 @@
 书写示例：
 
 ```
-![图片描述性文字](图片相对地址)
+![图片描述性文字，非必填，比如：我是示例图片的描述](图片相对或绝对地址，比如：images/example.png)
 ```
 
 效果：  
@@ -129,7 +129,7 @@
 书写示例：
 
 ```
-[链接描述文字（可见）](链接地址)
+[链接描述文字，比如：点击跳转到极客学院)](链接地址，比如：http://www.jikexueyuan.com)
 ```
 
 效果：  
@@ -177,24 +177,24 @@ public class Person {
 书写示例：
 
 ```
-| Prefix       | Framework   |
-| ------------- |:-------------:| -----:|
-| NS      | Foundation (OS X and iOS) and Application Kit (OS X)  |
-| UI      | UIKit (iOS)  |
-| AB      | Address Book  |
-| CA      | Core Animation  |
-| CI      | Core Image  |
+|Prefix  |Framework   |
+|--------|------------|
+|NS      |Foundation (OS X and iOS) and Application Kit (OS X)  |
+|UI      |UIKit (iOS)  |
+|AB      |Address Book  |
+|CA      |Core Animation  |
+|CI      |Core Image  |
 ```
 
 效果： 
 
-| Prefix       | Framework   |
-| ------------- |:-------------:| -----:|
-| NS      | Foundation (OS X and iOS) and Application Kit (OS X)  |
-| UI      | UIKit (iOS)  |
-| AB      | Address Book  |
-| CA      | Core Animation  |
-| CI      | Core Image  |
+|Prefix  |Framework   |
+|--------|------------|
+|NS      |Foundation (OS X and iOS) and Application Kit (OS X)  |
+|UI      |UIKit (iOS)  |
+|AB      |Address Book  |
+|CA      |Core Animation  |
+|CI      |Core Image  |
 
 ## 免费编辑器
 
