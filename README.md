@@ -1,17 +1,17 @@
 # Markdown 语法
 
-**目录**   
-- [标题](#header)
-- [换行](#newline)
-- [加粗](#bold)
-- [列表](#list)
-- [添加图片](#image)
-- [添加超链接](#link)  
-- [引用](#blockquote)
-- [代码](#code)
-- [代码块](#code-block)
-- [表格](#table)
-- [免费编辑器](#editor)
+- 目录
+    - [标题](#header)
+    - [换行](#newline)
+    - [加粗](#bold)
+    - [列表](#list)
+    - [添加图片](#image)
+    - [添加超链接](#link)  
+    - [引用](#blockquote)
+    - [代码](#code)
+    - [代码块](#code-block)
+    - [表格](#table)
+    - [免费编辑器](#editor)
 
 <a name="header"></a>
 ## 标题
